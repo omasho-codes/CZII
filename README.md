@@ -41,14 +41,4 @@ Particle locations are stored in json files according to the copick specificatio
 
 If you intend to use copick to get tomograms, points, and labels, then see the example notebooks which provide examples for access to tomograms and making valid predictions of particle locations.
 
-Files
-632 files
 
-Size
-9.64 GB
-
-Type
-zarray, json, zattrs + 3 others
-
-License
-CC0: P
